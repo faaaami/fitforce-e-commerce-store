@@ -1,0 +1,580 @@
+{
+  "users": [
+    {
+      "id": "045a3e",
+      "name": "Muhammed Famil Bin Fazil",
+      "email": "familfamil505@gmail.com",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "phone": "9539159412",
+      "role": "admin",
+      "cart": [],
+      "orders": [
+        {
+          "id": 1770286524237,
+          "items": [
+            {
+              "id": "2",
+              "name": "MuscleBlaze Pre Workout WrathX",
+              "price": 4199,
+              "category": "preworkout",
+              "image": "/Allproducts/pro2.jpg",
+              "description": "Fruit Fury • 510 g. High-intensity pre-workout formula designed to boost energy, focus, and performance during workouts.",
+              "quantity": 1
+            }
+          ],
+          "address": {
+            "name": "faaamil j",
+            "phone": "0542154828",
+            "address": "f3",
+            "city": "2",
+            "pincode": "3"
+          },
+          "paymentMethod": "cod",
+          "subtotal": 4199,
+          "delivery": 0,
+          "total": 4199,
+          "status": "Placed",
+          "date": "5/2/2026, 3:45:24 pm"
+        }
+      ],
+      "isBlocked": false
+    },
+    {
+      "id": "0a3e",
+      "name": "Muhammed Famil Bin Fazil",
+      "email": "familfamil505@gmail.com",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "phone": "9539159412",
+      "role": "admin",
+      "cart": [
+        {
+          "id": "8",
+          "name": "Tata 1mg Ultra Clean Whey Protein 1kg",
+          "price": 2995,
+          "category": "whey",
+          "quantity": 2,
+          "image": "/Allproducts/pro8.webp",
+          "description": "Ultra-clean blend of whey isolate and concentrate to support lean muscle growth and recovery."
+        }
+      ],
+      "orders": []
+    },
+    {
+      "id": "833c",
+      "name": "shahma",
+      "email": "shahma123@gmail.com",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "phone": "9539159412",
+      "role": "admin",
+      "cart": [],
+      "orders": [
+        {
+          "id": 1770287164382,
+          "items": [
+            {
+              "id": "2",
+              "name": "MuscleBlaze Pre Workout WrathX",
+              "price": 4199,
+              "category": "preworkout",
+              "image": "/Allproducts/pro2.jpg",
+              "description": "Fruit Fury • 510 g. High-intensity pre-workout formula designed to boost energy, focus, and performance during workouts.",
+              "quantity": 1
+            }
+          ],
+          "address": {
+            "name": "faaamil j",
+            "phone": "0542154828",
+            "address": "f3",
+            "city": "2",
+            "pincode": "3"
+          },
+          "paymentMethod": "cod",
+          "subtotal": 4199,
+          "delivery": 0,
+          "total": 4199,
+          "status": "Placed",
+          "date": "5/2/2026, 3:56:04 pm"
+        },
+        {
+          "id": 1770287176244,
+          "items": [
+            {
+              "id": "7",
+              "name": "Nutrabay BioAbsorb Whey Protein 1kg",
+              "price": 2499,
+              "category": "whey",
+              "image": "/Allproducts/pro7.webp",
+              "description": "Advanced bioavailability formula ensures faster digestion and efficient protein utilization.",
+              "quantity": 1
+            }
+          ],
+          "address": {
+            "name": "e",
+            "phone": "0542154828",
+            "address": "f3",
+            "city": "2",
+            "pincode": "3"
+          },
+          "paymentMethod": "cod",
+          "subtotal": 2499,
+          "delivery": 0,
+          "total": 2499,
+          "status": "Placed",
+          "date": "5/2/2026, 3:56:16 pm"
+        },
+        {
+          "id": 1770287218782,
+          "items": [
+            {
+              "id": "2",
+              "name": "MuscleBlaze Pre Workout WrathX",
+              "price": 4199,
+              "category": "preworkout",
+              "image": "/Allproducts/pro2.jpg",
+              "description": "Fruit Fury • 510 g. High-intensity pre-workout formula designed to boost energy, focus, and performance during workouts.",
+              "quantity": 1
+            }
+          ],
+          "address": {
+            "name": "Muhammed Famil Bin Fazil",
+            "phone": "0542154828",
+            "address": "f3",
+            "city": "2",
+            "pincode": "3"
+          },
+          "paymentMethod": "cod",
+          "subtotal": 4199,
+          "delivery": 0,
+          "total": 4199,
+          "status": "Placed",
+          "date": "5/2/2026, 3:56:58 pm"
+        },
+        {
+          "id": 1770287244442,
+          "items": [
+            {
+              "id": "10",
+              "name": "MuscleBlaze Biozyme Performance Whey 2kg",
+              "price": 5399,
+              "category": "whey",
+              "image": "/Allproducts/pro10.jpg",
+              "description": "Enhanced digestibility with Biozyme enzymes for maximum protein absorption.",
+              "quantity": 1
+            }
+          ],
+          "address": {
+            "name": "Muhammed Famil Bin Fazil",
+            "phone": "0542154828",
+            "address": "f3",
+            "city": "2",
+            "pincode": "3"
+          },
+          "paymentMethod": "cod",
+          "subtotal": 5399,
+          "delivery": 0,
+          "total": 5399,
+          "status": "Placed",
+          "date": "5/2/2026, 3:57:24 pm"
+        }
+      ],
+      "isBlocked": false
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "MuscleBlaze Biozyme Iso-Zero, Low Carb Whey Protein Isolate Powder",
+      "price": 4299,
+      "category": "whey",
+      "image": "/Allproducts/pro1.jpg",
+      "quantity": 22,
+      "description": "HIGHEST QUALITY, LOW CARB: MuscleBlaze Biozyme Iso Zero is a premium imported whey protein isolate with lactose-free protein. Uses globally recognized Biozyme formulation for superior absorption."
+    },
+    {
+      "id": "2",
+      "name": "MuscleBlaze Pre Workout WrathX",
+      "price": 4199,
+      "category": "preworkout",
+      "quantity": 242,
+      "image": "/Allproducts/pro2.jpg",
+      "description": "Fruit Fury • 510 g. High-intensity pre-workout formula designed to boost energy, focus, and performance during workouts."
+    },
+    {
+      "id": "3",
+      "name": "Optimum Nutrition (ON) Gold Standard 100% Whey 907 g",
+      "price": 2499,
+      "category": "whey",
+      "quantity": "22",
+      "image": "/Allproducts/pro3.jpg",
+      "description": "25g PROTEIN per serving to support muscle recovery and growth. World’s best-selling whey protein with fast absorption."
+    },
+    {
+      "id": "4",
+      "name": "MuscleTech Nitrotech Ripped 1.81 Kg",
+      "price": 5999,
+      "category": "whey",
+      "quantity": "55",
+      "image": "/Allproducts/pro4.webp",
+      "description": "LEAN MUSCLE BUILDER with 30g protein per scoop, L-Carnitine, and coffee extract to support fat loss and strength."
+    },
+    {
+      "id": "5",
+      "name": "Neulife Super Isolate Whey Protein 450 g",
+      "price": 1765,
+      "category": "whey",
+      "quantity": "95",
+      "image": "/Allproducts/pro5.webp",
+      "description": "Premium whey isolate with 27g protein per serving, minimal carbs & fats, and enhanced absorption using MCTs."
+    },
+    {
+      "id": "6",
+      "name": "Optimum Nutrition Micronized Creatine Powder 100 g",
+      "price": 999,
+      "category": "creatine",
+      "quantity": "45",
+      "image": "/Allproducts/pro6.jpg",
+      "description": "100% pure micronized creatine monohydrate for improved strength, power, and workout performance."
+    },
+    {
+      "id": "7",
+      "name": "Nutrabay BioAbsorb Whey Protein 1kg",
+      "price": 2499,
+      "category": "whey",
+      "quantity": "54",
+      "image": "/Allproducts/pro7.webp",
+      "description": "Advanced bioavailability formula ensures faster digestion and efficient protein utilization."
+    },
+    {
+      "id": "8",
+      "name": "Tata 1mg Ultra Clean Whey Protein 1kg",
+      "price": 2995,
+      "category": "whey",
+      "quantity": "84",
+      "image": "/Allproducts/pro8.webp",
+      "description": "Ultra-clean blend of whey isolate and concentrate to support lean muscle growth and recovery."
+    },
+    {
+      "id": "9",
+      "name": "MuscleBlaze Whey Gold Protein Powder 1kg",
+      "price": 3599,
+      "category": "whey",
+      "quantity": "79",
+      "image": "/Allproducts/pro9.webp",
+      "description": "Premium whey protein delivering 25g protein per serving from high-quality sources."
+    },
+    {
+      "id": "10",
+      "name": "MuscleBlaze Biozyme Performance Whey 2kg",
+      "price": 5399,
+      "category": "whey",
+      "quantity": "15",
+      "image": "/Allproducts/pro10.jpg",
+      "description": "Enhanced digestibility with Biozyme enzymes for maximum protein absorption."
+    },
+    {
+      "id": "11",
+      "name": "Wellcore Pure Micronised Creatine Powder",
+      "price": 599,
+      "category": "creatine",
+      "quantity": "78",
+      "image": "/Allproducts/pro11.webp",
+      "description": "Fast mixing creatine with excellent absorption to support muscle strength and endurance."
+    },
+    {
+      "id": "12",
+      "name": "PINTOLA High Protein Oats 1kg",
+      "price": 537,
+      "category": "oats",
+      "quantity": "52",
+      "image": "/Allproducts/pro12.jpg",
+      "description": "Nutritious oats with 25g protein per serving and added seeds for sustained energy."
+    },
+    {
+      "id": "13",
+      "name": "MYFITNESS Natural Peanut Butter 1.25kg",
+      "price": 426,
+      "category": "peanutbutter",
+      "quantity": "96",
+      "image": "/Allproducts/pro13.webp",
+      "description": "100% roasted peanuts with no added sugar or salt. High protein and healthy fats."
+    },
+    {
+      "id": "14",
+      "name": "Carbamide Forte Salmon Omega 3 Fish Oil Capsules",
+      "price": 419,
+      "category": "omega3",
+      "quantity": "25",
+      "image": "/Allproducts/pro14.jpg",
+      "description": "Rich source of EPA & DHA to support heart, brain, and joint health."
+    },
+    {
+      "id": "15",
+      "name": "Tata 1mg Salmon Omega 3 Fish Oil 90 Capsules",
+      "price": 599,
+      "category": "omega3",
+      "quantity": "75",
+      "image": "/Allproducts/pro15.webp",
+      "description": "Premium omega-3 supplement sourced from wild salmon."
+    },
+    {
+      "id": "16",
+      "name": "Carbamide Forte Salmon Omega 3 Capsules",
+      "price": 759,
+      "category": "omega3",
+      "quantity": "48",
+      "image": "/Allproducts/pro16.jpg",
+      "description": "Supports cardiovascular health and joint mobility."
+    },
+    {
+      "id": "17",
+      "name": "MuscleBlaze Micronised Creatine CreAMP 300g",
+      "price": 599,
+      "category": "creatine",
+      "quantity": "65",
+      "image": "/Allproducts/pro17.jpg",
+      "description": "High-quality creatine for increased strength and workout endurance."
+    },
+    {
+      "id": "18",
+      "name": "TATA 1MG Creatine Monohydrate",
+      "price": 499,
+      "category": "creatine",
+      "quantity": "15",
+      "image": "/Allproducts/pro18.jpg",
+      "description": "100% pure, micronized creatine with no additives."
+    },
+    {
+      "id": "19",
+      "name": "Avvatar Performance Whey Protein 1Kg",
+      "price": 2399,
+      "category": "whey",
+      "quantity": "79",
+      "image": "/Allproducts/pro19.webp",
+      "description": "27.5g protein per serving with high-quality whey for muscle recovery."
+    },
+    {
+      "id": "20",
+      "name": "Beast Life Performance Protein Powder 1 Kg",
+      "price": 1998,
+      "category": "whey",
+      "quantity": "23",
+      "image": "/Allproducts/pro20.webp",
+      "description": "High absorption protein blend for muscle growth and recovery."
+    },
+    {
+      "id": "21",
+      "name": "Optimum Nutrition Performance Whey 1Kg",
+      "price": 2744,
+      "category": "whey",
+      "quantity": "92",
+      "image": "/Allproducts/pro21.jpg",
+      "description": "24g complete protein per serving for lean muscle support."
+    },
+    {
+      "id": "22",
+      "name": "MuscleBlaze 100% Clean Raw Whey Protein 1kg",
+      "price": 2299,
+      "category": "whey",
+      "quantity": "46",
+      "image": "/Allproducts/pro22.jpg",
+      "description": "Pure whey concentrate sourced from high-quality milk with no additives."
+    },
+    {
+      "id": "23",
+      "name": "NAKPRO Perform Whey Protein 1kg",
+      "price": 1629,
+      "category": "whey",
+      "quantity": "82",
+      "image": "/Allproducts/pro23.jpg",
+      "description": "Fast-absorbing whey protein with 24g protein and 5.3g BCAA per serving."
+    },
+    {
+      "id": "1770785882366",
+      "name": "edf",
+      "price": 23,
+      "category": "frdfe",
+      "image": "/pro1.png",
+      "quantity": 0,
+      "description": "fdf"
+    }
+  ],
+  "featuredproducts": [
+    {
+      "id": "1",
+      "name": "MuscleBlaze Biozyme Iso-Zero, Low Carb Whey Protein Isolate Powder",
+      "price": 4299,
+      "image": "/Allproducts/pro1.jpg",
+      "description": "HIGHEST QUALITY, LOW CARB: MuscleBlaze Biozyme Iso Zero, Low Carb is the highest quality, low carb imported whey protein isolate partly consisting of Lactose-free protein - now in the award-winning & globally recognized Biozyme formulation!",
+      "category": "whey"
+    },
+    {
+      "id": "4",
+      "name": "MuscleTech Nitrotech Ripped",
+      "price": 5999,
+      "image": "/Allproducts/pro4.webp",
+      "description": "LEAN MUSCLE BUILDER: Each scoop contains 30g blended protein, 500mg L-CARNITINE L-TARTRATE and 200mg C. CANEPHORA ROBUSTA which help build lean muscle, increase strength and enhance recovery for both men and women.",
+      "category": "whey"
+    },
+    {
+      "id": "10",
+      "name": "MuscleBlaze Biozyme Performance Whey",
+      "price": 5399,
+      "image": "/Allproducts/pro10.jpg",
+      "description": "ENHANCED DIGESTIBILITY: MuscleBlaze Biozyme Performance Whey Protein is formulated with Biozyme, a blend of digestive enzymes that enhance protein absorption and digestion, ensuring that your body effectively utilizes the protein for muscle growth and recovery.",
+      "category": "whey"
+    },
+    {
+      "id": "19",
+      "name": "avvatar Performance Whey Protein",
+      "price": 2399,
+      "image": "/Allproducts/pro19.webp",
+      "description": "HIGH PROTEIN CONTENT...",
+      "category": "whey"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1770696381981",
+      "items": [
+        {
+          "id": "2",
+          "name": "MuscleBlaze Pre Workout WrathX",
+          "price": 4199,
+          "category": "preworkout",
+          "quantity": 1,
+          "image": "/Allproducts/pro2.jpg",
+          "description": "Fruit Fury • 510 g. High-intensity pre-workout formula designed to boost energy, focus, and performance during workouts."
+        }
+      ],
+      "address": {
+        "name": "Muhammed Famil Bin Fazil",
+        "phone": "0542154828",
+        "address": "f3",
+        "city": "2",
+        "pincode": "3"
+      },
+      "paymentMethod": "cod",
+      "subtotal": 4199,
+      "delivery": 0,
+      "total": 4199,
+      "status": "Placed",
+      "date": "10/2/2026, 9:36:21 am",
+      "userId": "0a3e",
+      "userSnapshot": {
+        "id": "0a3e",
+        "name": "Muhammed Famil Bin Fazil",
+        "email": "familfamil505@gmail.com",
+        "phone": "9539159412",
+        "role": "admin"
+      }
+    },
+    {
+      "id": "1770699312240",
+      "items": [
+        {
+          "id": "3",
+          "name": "Optimum Nutrition (ON) Gold Standard 100% Whey 907 g",
+          "price": 2499,
+          "category": "whey",
+          "quantity": 1,
+          "image": "/Allproducts/pro3.jpg",
+          "description": "25g PROTEIN per serving to support muscle recovery and growth. World’s best-selling whey protein with fast absorption."
+        }
+      ],
+      "address": {
+        "name": "Muhammed Famil Bin Fazil",
+        "phone": "0542154828",
+        "address": "f3",
+        "city": "2",
+        "pincode": "3"
+      },
+      "paymentMethod": "cod",
+      "subtotal": 2499,
+      "delivery": 0,
+      "total": 2499,
+      "status": "Delivered",
+      "date": "10/2/2026, 10:25:12 am",
+      "userId": "0a3e",
+      "userSnapshot": {
+        "id": "0a3e",
+        "name": "Muhammed Famil Bin Fazil",
+        "email": "familfamil505@gmail.com",
+        "phone": "9539159412",
+        "role": "admin"
+      }
+    },
+    {
+      "id": "1770699725572",
+      "items": [
+        {
+          "id": "1",
+          "name": "MuscleBlaze Biozyme Iso-Zero, Low Carb Whey Protein Isolate Powder",
+          "price": 4299,
+          "category": "whey",
+          "image": "/Allproducts/pro1.jpg",
+          "quantity": 1,
+          "description": "HIGHEST QUALITY, LOW CARB: MuscleBlaze Biozyme Iso Zero is a premium imported whey protein isolate with lactose-free protein. Uses globally recognized Biozyme formulation for superior absorption."
+        }
+      ],
+      "address": {
+        "name": "Muhammed Famil Bin Fazil",
+        "phone": "0542154828",
+        "address": "f3",
+        "city": "2",
+        "pincode": "3"
+      },
+      "paymentMethod": "cod",
+      "subtotal": 4299,
+      "delivery": 0,
+      "total": 4299,
+      "status": "Delivered",
+      "date": "10/2/2026, 10:32:05 am",
+      "userId": "0a3e",
+      "userSnapshot": {
+        "id": "0a3e",
+        "name": "Muhammed Famil Bin Fazil",
+        "email": "familfamil505@gmail.com",
+        "phone": "9539159412",
+        "role": "admin"
+      }
+    },
+    {
+      "id": "1770700240465",
+      "items": [
+        {
+          "id": "14",
+          "name": "Carbamide Forte Salmon Omega 3 Fish Oil Capsules",
+          "price": 419,
+          "category": "omega3",
+          "quantity": 1,
+          "image": "/Allproducts/pro14.jpg",
+          "description": "Rich source of EPA & DHA to support heart, brain, and joint health."
+        }
+      ],
+      "address": {
+        "name": "Muhammed Famil Bin Fazil",
+        "phone": "0542154828",
+        "address": "f3",
+        "city": "2",
+        "pincode": "3"
+      },
+      "paymentMethod": "cod",
+      "subtotal": 419,
+      "delivery": 99,
+      "total": 518,
+      "status": "Shipped",
+      "date": "10/2/2026, 10:40:40 am",
+      "userId": "0a3e",
+      "userSnapshot": {
+        "id": "0a3e",
+        "name": "Muhammed Famil Bin Fazil",
+        "email": "familfamil505@gmail.com",
+        "phone": "9539159412",
+        "role": "admin"
+      }
+    }
+  ]
+}
